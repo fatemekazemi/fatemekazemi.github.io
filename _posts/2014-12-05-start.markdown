@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "لحظـــــه هـــــــا......"
+title: 
+<div style="font-size:40px;"> "لحظـــــه هـــــــا......"</div> 
 permalink: blog/start
 comments: true
 imglink: http://fatemekazemi.ir/assets/img/post/paeez.jpg
-imgauthor: http://florianklauer.de/
-
-<h2> <div style="font-size:40px;color:darkturquoise">Hi, I'm fatemekazemi</div> </h2>
   لحظـہ ها مــی گــذرد ،
 
   آنچـہ بگذشت نمی آیــد باز 
