@@ -1,18 +1,18 @@
-# HosseinKarami.com
+# fatemekazemi.ir
 
-The Jekyll build for hosseinkarami.com, built on [FastShell](http://hosseinkarami.github.io/fastshell/).
+The Jekyll build for fatemekazemi.ir, built on [FastShell](http://fatemekazemi.ir.github.io/fastshell/).
 
 * Learn more about how to use Jekyll here:  [jekyllrb.com](http://jekyllrb.com)
 
-* Site: [HosseinKarami.com](http://hosseinkarami.com)
-* Twitter: [@_Karamii](https://twitter.com/_Karamii)
+* Site: [fatemekazemi.ir](http://fatemekazemi.ir)
+* Twitter: [@_kazemii](https://twitter.com/_Kazemii)
 
 
 ## License
 
 #### The MIT License (MIT)
 
-Copyright (c) Hossein Karami <hosseinkarami@outlook.com>
+Copyright (c) fatemekazemi <fatemekazemi@outlook.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
