@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "شروع به نوشتن"
+title:  "یاد من باش"
 permalink: blog/matn2
 parsidate: جمعه 22 آبان 1394
 comments: true
