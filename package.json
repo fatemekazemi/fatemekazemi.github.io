@@ -1,13 +1,13 @@
 {
-  "name": "HosseinKarami",
-  "title": "jekyll build for hosseinkarami.com",
-  "author": "Hossein Karami (@_Karamii)",
-  "url": "http://hosseinkarami.com",
+  "name": "fatemekazemi",
+  "title": "jekyll build for fatemekazemi.ir",
+  "author": "fatemekazemi (@_kazemii)",
+  "url": "http://fatemekazemi.ir",
   "version": "1.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/HosseinKarami/HosseinKarami.github.io.git"
+    "url": "http://github.com/fatemekazemi/fatemekazemi.github.io.git"
   },
   "devDependencies": {
     "browser-sync": "^2.4.0",

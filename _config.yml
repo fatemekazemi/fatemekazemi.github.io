@@ -1,12 +1,12 @@
 # Site settings
-title: Hossein Karami | حسین کرمی
-email: hi@hosseinkarami.com
-description: توسعه‌دهنده رابط کاربری
-baseurl: "http://hosseinkarami.com/"
-url: "http://hosseinkarami.com"
-twitter: _Karamii
-github:  HosseinKarami
-behance: HosseinKarami
+title: fatemekazemi | فاطمه کاظمی
+email: hi@fatemekazemi.ir
+description: دانشجوی مهندسی کامپیوتر نرم افزار
+baseurl: "http://fatemekazemi.ir/"
+url: "http://fatemekazemi.ir"
+twitter: _kazemii
+github:  fatemekazemi
+behance: fatemekazemi
 # Build settings
 markdown: kramdown
 permalink: pretty

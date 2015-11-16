@@ -1,12 +1,12 @@
 {
-  "name": "HosseinKarami",
+  "name": "fatemekazemi",
   "version": "0.0.0",
   "authors": [
-    "Hossein Karami <hosseinkarami@outlook.com>"
+    "fatemekazemi <fatemekazemi@outlook.com>"
   ],
   "description": "My Polymer Experiment",
   "license": "MIT",
-  "homepage": "http://hosseinkarami.com",
+  "homepage": "http://fatemekazemi.ir",
   "private": true,
   "ignore": [
     "**/.*",
