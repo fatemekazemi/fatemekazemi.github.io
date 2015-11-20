@@ -8,7 +8,7 @@ imglink: http://fatemekazemi.ir/assets/img/post/autumn.jpg
 imgauthor: pichdwallpaper.com/
 imgauthorname: pichdwallpaper
 ---
-<p style="text-align: center;'>
+<p style="text-align: center;">
 پاییز می رسد که مرا مبتلا کند
 </p>
 <p style="text-align: center;">
