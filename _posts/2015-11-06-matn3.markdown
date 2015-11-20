@@ -22,5 +22,5 @@ imglink: http://fatemekazemi.ir/assets/img/post/del.jpg
 کدام پل در کجای جهان شکسته است
 </p>
 <p style="text-align: center;">
-که هیچکس به خانه اش نمی رسد
+که هیچکس به خانه اش نمی رسد...
 </p>
